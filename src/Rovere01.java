@@ -1,4 +1,4 @@
-public class RoverMarte {
+public class Rovere01 {
 	public static void main(String[] args) {
 		int[][] matriz = new int[8][8];
 		int linhaAtual = 2;
